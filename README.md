@@ -123,9 +123,6 @@ Ideas for future development:
 - [ ] Add sector/factor constraints
 - [ ] Export optimal portfolios to CSV
 
-## License
-
-MIT License - see [LICENSE](LICENSE) for details.
 
 ## References
 
